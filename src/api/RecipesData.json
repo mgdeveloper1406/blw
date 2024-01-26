@@ -187,28 +187,26 @@
   },
   {
      "id":"51",
-     "image":"https://cookieandkate.com/images/2011/04/mango-breakfast-quinoa-1-550x368.jpg",
-     "title":"Quinoa Breakfast Bowl",
+     "image":"https://cdn.pixabay.com/photo/2021/09/08/19/44/toast-6607782_640.jpg",
+     "title":"Avocado and Egg Smash",
      "createdOn":"15 March 2024",
-     "prepTime":"10  minutes",
+     "prepTime":"15  minutes",
      "foodType":["breakfast", "vegetarian", "healthy"],
      "author":"MG Developer",
      "authorImage":"/imgs/dianne-russel.png",
      "nutritionInfo": {
-      "calories": "380 kcal",
-      "totalFat": "15g",
-      "protein": "9g",
-      "carbohydrate": "50g",
+      "calories": "90  kcal",
+      "totalFat": "7g",
+      "protein": "4g",
+      "carbohydrate": "5g",
       "cholesterol": "0mg"
      },
-     "description": "Quinoa Breakfast Bowl",
+     "description": "Mashed avocado paired with softly scrambled eggs, offering a creamy and protein-rich breakfast.",
      "ingredients": {
       "main": {
-        "1": "1 cup cooked quinoa",
-        "2": "1/2 cup coconut milk",
-        "3": "1/4 cup sliced almonds",
-        "4": "1/2 cup mango chunks",
-        "5": "1 tbsp chia seeds"
+        "1": "1/2 ripe avocado",
+        "2": "1 egg"
+        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -219,17 +217,17 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a bowl, combine cooked quinoa and coconut milk.",
+          "description": "Mash the avocado in a bowl.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Top with sliced almonds, mango chunks, and chia seeds."
+          "description": "Scramble the egg and mix it with the mashed avocado."
         },
         "3": {
           "title": "Step 2",
-          "description": "Serve and enjoy!"
+          "description": "Cook in a pan until the eggs are fully cooked."
         }
      }
   },
