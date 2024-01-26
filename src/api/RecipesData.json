@@ -1,28 +1,27 @@
 [
   {
      "id":"1",
-     "image":"https://i.pinimg.com/736x/3a/0a/28/3a0a2877c157a583acdad79121c8861f.jpg",
-     "title":"Berry Chia Seed Pudding",
+     "image":"https://cdn.pixabay.com/photo/2016/12/25/22/43/pancakes-1931089_1280.jpg",
+     "title":"Banana Pancake Bites",
      "createdOn":"15 March 2024",
-     "prepTime":"5 minutes",
+     "prepTime":"15 minutes",
      "foodType":["healthy", "breakfast", "vegetarian"],
      "author":"MG Developer",
      "authorImage":"/imgs/robert-fox.png",
      "nutritionInfo": {
-      "calories": "219.9 kcal",
-      "totalFat": "10.7 g",
-      "protein": "7.9 g",
-      "carbohydrate": "22.3 g",
+      "calories": "50  kcal",
+      "totalFat": "1g",
+      "protein": "1g",
+      "carbohydrate": "10g",
       "cholesterol": "0,0374 g"
      },
-     "description": "Berry Chia Seed Pudding",
+     "description": "Soft and bite-sized banana pancake bites, perfect for little hands to grasp and explore.",
      "ingredients": {
       "main": {
-        "1": "1/4 cup chia seeds",
-        "2": "1 cup almond milk",
-        "3": "1/2 cup mixed berries (blueberries, strawberries, raspberries)",
-        "4": "1 tbsp honey or maple syrup",
-        "5": "1/4 cup sliced almonds"
+        "1": "1 ripe banana",
+        "2": "1 egg",
+        "3": "2 tablespoons oat flour"
+        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -33,45 +32,43 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a bowl, mix chia seeds and almond milk. Let it sit in the refrigerator for at least 2 hours or overnight.",
+          "description": "Mash the banana in a bowl.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Layer chia pudding with mixed berries in a glass."
+          "description": "Add the egg and oat flour, mix until well combined."
         },
         "3": {
           "title": "Step 3",
-          "description": "Drizzle honey or maple syrup on top and sprinkle with sliced almonds."
+          "description": "Spoon small portions onto a heated skillet and cook until golden on both sides."
         }
      }
   },
   {
      "id":"2",
-     "image":"https://img.freepik.com/fotos-premium/salmon-ahumado-aguacate-sobre-tostadas-comida-desayuno_255424-4431.jpg",
-     "title":"Avocado Toast with Smoked Salmon",
+     "image":"https://cdn.pixabay.com/photo/2023/05/24/16/32/muffin-8015288_640.jpg",
+     "title":"Blueberry Oat Muffins",
      "createdOn":"15 March 2024",
-     "prepTime":"10 minutes",
+     "prepTime":"20 minutes",
      "foodType":["healthy", "breakfast", "snack"],
      "author":"MG Developer",
      "authorImage":"/imgs/dianne-russel.png",
      "nutritionInfo": {
-      "calories": "380 kcal",
-      "totalFat": "20g g",
-      "protein": "18g g",
-      "carbohydrate": "30g g",
-      "cholesterol": "15mg"
+      "calories": "70  kcal",
+      "totalFat": "2g",
+      "protein": "2g",
+      "carbohydrate": "12g",
+      "cholesterol": "0,03 mg"
      },
-     "description": "Avocado Toast with Smoked Salmon",
+     "description": "Nutrient-packed muffins made with oats and fresh blueberries, introducing texture and flavor.",
      "ingredients": {
       "main": {
-        "1": "2 slices whole-grain bread, toasted",
-        "2": "1 ripe avocado, mashed",
-        "3": "4 oz smoked salmon",
-        "4": "1 tbsp lemon juice",
-        "5": "Salt and pepper to taste",
-        "6": "Fresh dill for garnish"
+        "1": "1 cup rolled oats",
+        "2": "1 ripe banana",
+        "3": "1/2 cup blueberries",
+        "4": "1/4 cup milk (of your choice"
         
       },
       "sauce": {
@@ -83,44 +80,42 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Spread mashed avocado on toasted bread slices.",
+          "description": "Blend oats into a flour-like consistency.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Top with smoked salmon."
+          "description": "Mash the banana and mix with oats, blueberries, and milk."
         },
         "3": {
           "title": "Step 3",
-          "description": "Drizzle with lemon juice and season with salt and pepper. Garnish with fresh dill."
+          "description": "Spoon into muffin cups and bake at 350°F (175°C) for 15-20 minutes."
         }
      }
   },
   {
      "id":"3",
-     "image":"https://img.freepik.com/fotos-premium/parfait-yogur-frutas-granola_972324-3895.jpg?w=360",
-     "title":"Greek Yogurt Parfait",
+     "image":"https://cdn.pixabay.com/photo/2018/01/18/21/37/muesli-3091299_640.jpg",
+     "title":"Yogurt and Fruit Parfait",
      "createdOn":"15 March 2022",
-     "prepTime":"20 minutes",
+     "prepTime":"10 minutes",
      "foodType":["healthy", "breakfast", "vegetarian"],
      "author":"MG Developer",
      "authorImage":"/imgs/dianne-russel.png",
      "nutritionInfo": {
-      "calories": "320 kcal",
-      "totalFat": "16g",
-      "protein": "14g",
-      "carbohydrate": "30g",
-      "cholesterol": "215mg"
+      "calories": "80  kcal",
+      "totalFat": "2g",
+      "protein": "3g",
+      "carbohydrate": "14g",
+      "cholesterol": "0,02g"
      },
-     "description": "Greek Yogurt Parfait",
+     "description": "A delightful parfait with yogurt and finely chopped fruits, offering a mix of flavors and textures.",
      "ingredients": {
       "main": {
-        "1": "1 cup Greek yogurt",
-        "2": "1/2 cup granola (low sugar)",
-        "3": "1/2 cup mixed berries",
-        "4": "1 tbsp honey"
-        
+        "1": "/2 cup yogurt",
+        "2": "1/4 cup finely chopped mixed fruits (e.g., berries, kiwi)"
+              
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -131,17 +126,17 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a glass, layer Greek yogurt, granola, and mixed berries.",
+          "description": "Layer yogurt and chopped fruits in a small jar or bowl.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Drizzle with honey on top"
+          "description": "Repeat layers until ingredients are used up."
         },
         "3": {
           "title": "Step 3",
-          "description": "Serve and enjoy!"
+          "description": "Serve immediately!"
         }
      }
   },
