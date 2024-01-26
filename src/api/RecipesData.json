@@ -142,28 +142,25 @@
   },
   {
      "id":"4",
-     "image":"https://media.istockphoto.com/id/1156467763/photo/stir-fry-of-sweet-potatoes-with-kale-served-with-bacon-and-fried-egg-close-up-on-a-plate.jpg?s=612x612&w=0&k=20&c=Iken1jJS-9K4C8ByBz5oHicc5yDagK_Xod3iEqXW6LE=",
-     "title":"Sweet Potato and Spinach Breakfast Hash",
+     "image":"https://cdn.pixabay.com/photo/2022/02/12/20/25/sweet-potato-7009882_640.jpg",
+     "title":"Sweet Potato Toast Sticks",
      "createdOn":"15 March 2024",
-     "prepTime":"20 minutes",
+     "prepTime":"25 minutes",
      "foodType":["breakfast", "vegetarian", "healthy"],
      "author":"MG Developer",
      "authorImage":"/imgs/robert-fox.png",
      "nutritionInfo": {
-      "calories": "320   kcal",
-      "totalFat": "16g g",
-      "protein": "14g g",
-      "carbohydrate": "30g g",
-      "cholesterol": "215mg"
+      "calories": "60 kcal",
+      "totalFat": "0.5g",
+      "protein": "1g",
+      "carbohydrate": "14g",
+      "cholesterol": "o,002g"
      },
-     "description": "Sweet Potato and Spinach Breakfast Hash",
+     "description": "Oven-baked sweet potato sticks, providing a soft and nutritious option for self-feeding.",
      "ingredients": {
       "main": {
-        "1": "1 medium sweet potato, grated",
-        "2": "1 cup baby spinach",
-        "3": "2 eggs",
-        "4": "1 tbsp olive oil",
-        "5": "Salt and pepper to taste"
+        "1": "1 small sweet potato"
+        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -174,17 +171,17 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a skillet, heat olive oil over medium heat. Add grated sweet potato and cook until slightly crispy.",
+          "description": "Slice the sweet potato into thin sticks",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Stir in baby spinach until wilted. Make two wells in the hash and crack an egg into each well."
+          "description": "Bake at 400°F (200°C) for 20-25 minutes or until tender."
         },
         "3": {
           "title": "Step 3",
-          "description": "Cover and cook until eggs are done to your liking."
+          "description": "Cool slightly before serving."
         }
      }
   },
