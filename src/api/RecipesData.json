@@ -740,31 +740,29 @@
   },
   {
      "id":"104",
-     "image":"https://cdn.pixabay.com/photo/2016/03/11/10/11/salad-1250016_640.jpg",
-     "title":"Quinoa and Vegetable Stir-Fry",
+     "image":"https://cdn.pixabay.com/photo/2023/02/19/18/33/baking-7800787_1280.jpg",
+     "title":"Banana Oat Cookies",
      "createdOn":"15 March 2024",
-     "prepTime":"30 minutes",
-     "foodType":["main", "healthy"],
+     "prepTime":"25 minutes",
+     "foodType":["dessert", "snack", "vegetarian"],
      "author":"MG Developer",
      "authorImage": "/imgs/albert-flores.png",
      "nutritionInfo": {
-      "calories": "v kcal",
-      "totalFat": "12g",
-      "protein": "15g",
-      "carbohydrate": "45g",
-      "cholesterol": "0mg"
+      "calories": "80 kcal",
+      "totalFat": "2g",
+      "protein": "2g",
+      "carbohydrate": "14g",
+      "cholesterol": "5mg"
      },
-     "description": "A colorful and nutrient-packed stir-fry with anti-inflammatory quinoa and a variety of vegetables.",
+     "description": "Soft and chewy cookies made with mashed bananas and oats, perfect for tiny hands.",
      "ingredients": {
       "main": {
-        "1": "1 cup quinoa, cooked",
-        "2": "1 cup broccoli florets",
-        "3": "1 bell pepper, sliced",
-        "4": "1 carrot, julienned",
-        "5": "1 cup snap peas",
-        "6": "2 tbsp soy sauce",
-        "7": "1 tbsp sesame oil",
-        "8": "1 tsp ginger, minced"
+        "1": "1 ripe banana, mashed",
+        "2": "1/2 cup rolled oats",
+        "3": "1 tablespoon melted butter or coconut oil",
+        "4": "1 tablespoon honey or maple syrup",
+        "5": "1/4 teaspoon cinnamon (optional)"
+        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -775,44 +773,48 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a wok or skillet, heat sesame oil over medium-high heat. Add ginger and stir-fry for 1 minute.",
+          "description": "Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Add broccoli, bell pepper, carrot, and snap peas. Cook until vegetables are tender-crisp."
+          "description": "In a bowl, mix mashed banana, oats, melted butter or coconut oil, honey or maple syrup, and cinnamon (if using)."
         },
         "3": {
           "title": "Step 3",
-          "description": "Stir in cooked quinoa and soy sauce. Cook for an additional 2-3 minutes."
+          "description": "Drop spoonfuls of the mixture onto the prepared baking sheet and flatten slightly with a fork. Bake for 12-15 minutes or until golden brown. Allow to cool before serving."
         }
      }
   },
   {
      "id":"105",
-     "image":"/imgs/rainbow-chicken-salad.png",
-     "title":"Rainbow Chicken Salad with Almond Honey Mustard Dressing",
-     "createdOn":"15 March 2022",
+     "image":"https://cdn.pixabay.com/photo/2016/05/13/16/37/muffin-1390368_1280.jpg",
+     "title":"Apple Cinnamon Muffins",
+     "createdOn":"15 March 2024",
      "prepTime":"30 minutes",
-     "foodType": ["healthy", "meat", "snack"],
+     "foodType": ["vegetarian", "dessert", "snack"],
      "author":"Wade Warren",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
-      "calories": "219.9 kcal",
-      "totalFat": "10.7 g",
-      "protein": "7.9 g",
-      "carbohydrate": "22.3 g",
-      "cholesterol": "0,0374 g"
+      "calories": "100 kcal",
+      "totalFat": "3 g",
+      "protein": "2 g",
+      "carbohydrate": "18 g",
+      "cholesterol": "10mg"
      },
-     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "description": "Moist and flavorful muffins infused with the natural sweetness of apples and a hint of cinnamon.",
      "ingredients": {
       "main": {
-        "1": "Lorem ipsum dolor sit amet",
-        "2": "Lorem ipsum dolor sit amet",
-        "3": "Lorem ipsum dolor sit amet",
-        "4": "Lorem ipsum dolor sit amet",
-        "5": "Lorem ipsum dolor sit amet"
+        "1": "1 cup diced apples",
+        "2": "1 cup whole wheat flour",
+        "3": "1/4 cup melted butter or coconut oil",
+        "4": "1/4 cup maple syrup or honey",
+        "5": "1 egg",
+        "6": "1/2 teaspoon baking powder",
+        "7": "1/2 teaspoon baking soda",
+        "8": "1 teaspoon cinnamon",
+        "9": "A pinch of salt"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -822,18 +824,22 @@
      },
      "directions": {
         "1": {
-          "title": "1. Lorem ipsum dolor sit amet",
-          "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "title": "Step 1",
+          "description": "Preheat the oven to 350°F (175°C) and line a muffin tin with paper liners.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
-          "title": "2. Lorem ipsum dolor sit amet",
-          "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+          "title": "Step 2",
+          "description": "In a bowl, mix diced apples, whole wheat flour, melted butter or coconut oil, maple syrup or honey, egg, baking powder, baking soda, cinnamon, and salt until well combined."
         },
         "3": {
-          "title": "3. Lorem ipsum dolor sit amet",
-          "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+          "title": "Step 3",
+          "description": "Spoon the batter into the prepared muffin tin, filling each cup about two-thirds full."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean. Allow to cool before serving."
         }
      }
   },
