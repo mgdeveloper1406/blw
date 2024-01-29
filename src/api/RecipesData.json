@@ -495,28 +495,28 @@
   },
   {
      "id":"57",
-     "image":"https://cdn.pixabay.com/photo/2021/01/09/16/27/mushrooms-5902888_1280.jpg",
-     "title":"Quinoa and Kale Stuffed Mushrooms",
+     "image":"https://cdn.pixabay.com/photo/2012/06/28/10/32/meat-balls-50929_1280.jpg",
+     "title":"Mini Turkey Meatballs",
      "createdOn":"15 March 2022",
      "prepTime":"30 minutes",
-     "foodType":["snack", "healthy", "vegetarian"],
+     "foodType":["snack", "healthy", "meat"],
      "author":"Wade Warren",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
-      "calories": "130  kcal",
-      "totalFat": "6g",
-      "protein": "5g",
-      "carbohydrate": "15g",
-      "cholesterol": "0mg"
+      "calories": "80 kcal",
+      "totalFat": "4 g",
+      "protein": "8 g",
+      "carbohydrate": "2 g",
+      "cholesterol": "30 mg"
      },
-     "description": "A savory and nutrient-dense snack filled with quinoa and kale.",
+     "description": "Tender and flavorful turkey meatballs, perfect for little ones to grasp and explore.",
      "ingredients": {
       "main": {
-        "1": "8 large mushrooms, stems removed",
-        "2": "1/2 cup cooked quinoa",
-        "3": "1 cup kale, finely chopped",
-        "4": "1 clove garlic, minced",
-        "5": "2 tbsp grated Parmesan cheese",
+        "1": "1/2 pound ground turkey",
+        "2": "1/4 cup breadcrumbs",
+        "3": "1 egg",
+        "4": "1/4 teaspoon garlic powder",
+        "5": "1/4 teaspoon onion powder",
         "6": "Salt and pepper to taste"
       },
       "sauce": {
@@ -528,43 +528,43 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat oven to 375°F (190°C).",
+          "description": "Preheat the oven to 375°F (190°C). n a bowl, mix ground turkey, breadcrumbs, egg, garlic powder, onion powder, salt, and pepper.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "In a bowl, mix quinoa, kale, garlic, Parmesan, salt, and pepper."
+          "description": "Shape mixture into small meatballs and place on a baking sheet."
         },
         "3": {
           "title": "Step 3",
-          "description": "Stuff each mushroom with the quinoa mixture. Bake for 15-20 minutes until mushrooms are tender."
+          "description": "Bake for 15 minutes or until cooked through."
         }
      }
   },
   {
      "id":"58",
-     "image":"https://media.istockphoto.com/id/1221444400/photo/healthy-blueberry-and-raspberry-parfaits-in-mason-jars-on-dark-background.jpg?s=612x612&w=0&k=20&c=vGV0WTQVbIqq2kn_G2HyR8U35ye88CeG8bxNJOOEZNY=",
-     "title":"Greek Yogurt and Berry Parfait",
+     "image":"https://cdn.pixabay.com/photo/2021/07/02/05/09/paneer-tikka-6380891_1280.jpg",
+     "title":"Chicken and Vegetable Skewers",
      "createdOn":"15 March 2024",
-     "prepTime":"10 minutes",
-     "foodType":["snack", "vegetarian", "drinks"],
+     "prepTime":"35 minutes",
+     "foodType":["snack", "meat", "healthy"],
      "author":"MG Developer",
      "authorImage":"/imgs/leslie-alexander.png",
      "nutritionInfo": {
-      "calories": "160 kcal",
-      "totalFat": "3g",
-      "protein": "8g",
-      "carbohydrate": "25g",
-      "cholesterol": "5mg"
+      "calories": "120  kcal",
+      "totalFat": "3.5g",
+      "protein": "15g",
+      "carbohydrate": "8g",
+      "cholesterol": "40mg"
      },
-     "description": "A delightful and nutritious parfait featuring the anti-inflammatory properties of berries.",
+     "description": "Colorful skewers featuring tender chicken and a variety of vegetables, introducing different flavors and textures.",
      "ingredients": {
       "main": {
-        "1": "1 cup Greek yogurt",
-        "2": "1/2 cup mixed berries (blueberries, strawberries, raspberries)",
-        "3": "2 tbsp granola (low sugar)",
-        "4": "Drizzle of honey"
+        "1": "1/2 pound boneless, skinless chicken breast, cut into cubes",
+        "2": "Assorted vegetables (e.g., bell peppers, zucchini, cherry tomatoes)",
+        "3": "Olive oil",
+        "4": "Salt and pepper to taste"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -575,44 +575,46 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a glass, layer Greek yogurt, mixed berries, and granola.",
+          "description": "Preheat the grill or grill pan over medium heat. Thread chicken cubes and vegetables onto skewers, alternating between them.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Repeat layers."
+          "description": "Brush skewers with olive oil and season with salt and pepper."
         },
         "3": {
           "title": "Step 3",
-          "description": "Drizzle with honey on top."
+          "description": "Grill for 12-15 minutes, turning occasionally, until chicken is cooked through and vegetables are tender."
         }
      }
   },
   {
      "id":"101",
-     "image":"https://cdn.pixabay.com/photo/2021/03/31/20/30/daffodil-6140598_1280.jpg",
-     "title":"Golden Turmeric Latte",
+     "image":"https://cdn.pixabay.com/photo/2015/03/02/00/03/spinach-655479_1280.jpg",
+     "title":"Salmon Patties",
      "createdOn":"15 March 2024",
-     "prepTime":"10  minutes",
+     "prepTime":"35  minutes",
      "foodType":["healthy", "breakfast", "drinks"],
      "author":"MG Developer",
      "authorImage":"/imgs/leslie-alexander.png",
      "nutritionInfo": {
-      "calories": "80 kcal",
-      "totalFat": "3g",
-      "protein": "1g",
-      "carbohydrate": "12g",
-      "cholesterol": "0,0374 g"
+      "calories": "150 kcal",
+      "totalFat": "9g",
+      "protein": "12g",
+      "carbohydrate": "5g",
+      "cholesterol": "45mg"
      },
-     "description": "A warming and anti-inflammatory beverage with the goodness of turmeric.",
+     "description": "Delicious and nutritious salmon patties, rich in omega-3 fatty acids and protein.",
      "ingredients": {
       "main": {
-        "1": "1 cup almond milk",
-        "2": "1 tsp turmeric powder",
-        "3": "1/2 tsp ginger powder",
-        "4": "1/4 tsp cinnamon",
-        "5": "1 tsp honey or maple syrup"
+        "1": "1 can (6 ounces) salmon, drained and flaked",
+        "2": "1/4 cup breadcrumbs",
+        "3": "1 egg",
+        "4": "1 tablespoon chopped fresh parsley",
+        "5": "1/4 teaspoon garlic powder",
+        "6": "Salt and pepper to taste",
+        "7": "Olive oil for frying"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -623,24 +625,24 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Heat almond milk in a saucepan.",
+          "description": "In a bowl, combine salmon, breadcrumbs, egg, parsley, garlic powder, salt, and pepper.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Whisk in turmeric, ginger, and cinnamon until well combined."
+          "description": "Shape mixture into small patties.Heat olive oil in a skillet over medium heat."
         },
         "3": {
           "title": "Step 3",
-          "description": "Sweeten with honey or maple syrup. Strain and serve warm."
+          "description": "Fry patties for 3-4 minutes on each side or until golden brown and cooked through."
         }
      }
   },
   {
      "id":"102",
      "image":"https://cdn.pixabay.com/photo/2018/03/02/17/16/smoothie-3193660_1280.jpg",
-     "title":"Berry Anti-Inflammatory Smoothie",
+     "title":"Beef and Sweet Potato Mash",
      "createdOn":"15 March 2022",
      "prepTime":"5  minutes",
      "foodType":["drinks", "vegetarian"],
@@ -653,14 +655,16 @@
       "carbohydrate": "25g",
       "cholesterol": "0mg"
      },
-     "description": "A refreshing smoothie packed with berries known for their anti-inflammatory properties.",
+     "description": "A comforting mash featuring lean ground beef and creamy sweet potatoes, perfect for introducing new flavors and textures.",
      "ingredients": {
       "main": {
-        "1": "1 cup mixed berries (blueberries, strawberries, raspberries)",
-        "2": "1/2 banana",
-        "3": "1/2 cup Greek yogurt",
-        "4": "1/2 cup coconut water",
-        "5": "Ice cubes"
+        "1": "1 can (6 ounces) salmon, drained and flaked",
+        "2": "1/4 cup breadcrumbs",
+        "3": "1 egg",
+        "4": "1 tablespoon chopped fresh parsley",
+        "5": "1/4 teaspoon garlic powder",
+        "6": "Salt and pepper to taste",
+        "7": "Olive oil for frying"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -671,15 +675,19 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Blend all ingredients until smooth.",
+          "description": "In a bowl, combine salmon, breadcrumbs, egg, parsley, garlic powder, salt, and pepper.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Pour into a glass and enjoy immediately."
+          "description": "Shape mixture into small patties. Heat olive oil in a skillet over medium heat."
+        },
+        "3": {
+          "title": "Step 3",
+          "description": "Fry patties for 3-4 minutes on each side or until golden brown and cooked through."
         }
-        
+
      }
   },
   {
