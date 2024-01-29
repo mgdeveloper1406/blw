@@ -895,9 +895,9 @@
      "id":"107",
      "image":"https://cdn.pixabay.com/photo/2018/10/10/22/28/lentil-soup-3738547_1280.jpg",
      "title":"Berry Yogurt Popsicles",
-     "createdOn":"15 March 2022",
+     "createdOn":"15 March 2024",
      "prepTime":"10 minutes",
-     "foodType":["healthy", "vegetarian", "main"],
+     "foodType":["healthy", "snack", "dessert"],
      "author":"MG Developer",
      "authorImage":"/imgs/albert-flores.png",
      "nutritionInfo": {
@@ -944,7 +944,7 @@
      "title":"Peach Banana Soft Serve",
      "createdOn":"15 March 2022",
      "prepTime":"35 minutes",
-     "foodType":["main"],
+     "foodType":["dessert", "snack"],
      "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
