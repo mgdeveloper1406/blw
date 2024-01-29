@@ -724,17 +724,17 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat oven to 375°F (190°C). Mix turmeric, paprika, olive oil, salt, and pepper in a bowl.",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix ground turkey, chopped vegetables, breadcrumbs, egg, ketchup, Worcestershire sauce, salt, and pepper.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Rub the spice mixture over salmon fillets. Place lemon slices on top of each fillet. "
+          "description": "Shape mixture into a loaf and place in a greased loaf pan."
         },
         "3": {
           "title": "Step 3",
-          "description": "Bake for 15-20 minutes or until salmon is cooked through."
+          "description": "Bake for 40-45 minutes or until cooked through."
         }
      }
   },
