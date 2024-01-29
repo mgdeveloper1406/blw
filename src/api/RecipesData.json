@@ -341,7 +341,7 @@
   },
   {
      "id":"54",
-     "image":"https://cdn.pixabay.com/photo/2016/03/05/22/21/appetite-1239258_640.jpg",
+     "image":"https://cdn.pixabay.com/photo/2016/06/22/17/44/easter-1473615_1280.jpg",
      "title":"Carrot Oat Bread Bites",
      "createdOn":"15 March 2022",
      "prepTime":"45 minutes",
@@ -360,10 +360,12 @@
       "main": {
         "1": "1/2 cup grated carrots",
         "2": "1/4 cup melted coconut oil",
-        "3": "2 tbsp honey",
-        "4": "1 tsp turmeric powder",
-        "5": "1/2 tsp cinnamon",
-        "6": "Pinch of sea salt"
+        "3": "1/4 cup honey",
+        "4": "1 egg",
+        "5": "1 teaspoon vanilla extract",
+        "6": "Pinch of sea salt",
+        "7": "1/2 cup whole wheat flour",
+        "8": "1/2 teaspoon baking soda"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -374,45 +376,47 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a food processor, blend almonds and oats until finely ground.",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix carrots, melted coconut oil, honey, egg, and vanilla.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Add honey, turmeric, cinnamon, and salt. Blend until well combined."
+          "description": "In a separate bowl, combine oats, flour, baking soda, and salt."
         },
         "3": {
           "title": "Step 3",
-          "description": "Roll the mixture into bite-sized balls. Refrigerate for at least 30 minutes before serving."
+          "description": "Combine wet and dry ingredients, spoon into mini muffin tins, and bake until golden brown."
         }
      }
   },
   {
      "id":"55",
-     "image":"https://img.freepik.com/premium-photo/top-view-homemade-hummus-white-bowl_908985-67704.jpg",
-     "title":"Avocado and Chickpea Hummus",
+     "image":"https://cdn.pixabay.com/photo/2017/03/12/10/29/blueberry-muffins-2136749_1280.jpg",
+     "title":"Banana Blueberry Mini Muffins",
      "createdOn":"15 March 2024",
-     "prepTime":"10 minutes",
-     "foodType":["vegetarian", "snack"],
+     "prepTime":"30 minutes",
+     "foodType":["vegetarian", "snack", "bread"],
      "author":"MG Developer",
      "authorImage":"/imgs/courtney-henry.png",
      "nutritionInfo": {
-      "calories": "150 kcal",
-      "totalFat": "8g",
-      "protein": "4g",
-      "carbohydrate": "18g",
+      "calories": "60 kcal",
+      "totalFat": "2g",
+      "protein": "1g",
+      "carbohydrate": "1g",
       "cholesterol": "0mg"
      },
-     "description": "A creamy and satisfying hummus with the anti-inflammatory goodness of avocado.",
+     "description": "Tiny, soft muffins bursting with the sweetness of bananas and the goodness of blueberries.",
      "ingredients": {
       "main": {
-        "1": "1 can (15 oz) chickpeas, drained and rinsed",
-        "2": "1 ripe avocado",
-        "3": "2 tbsp olive oil",
-        "4": "1 clove garlic, minced",
-        "5": "Juice of 1 lemon",
-        "6": "Salt and pepper to taste"
+        "1": "2 ripe bananas, mashed",
+        "2": "1/4 cup melted coconut oil",
+        "3": "1/4 cup maple syrup",
+        "4": "1 egg",
+        "5": "1 cup whole wheat flour",
+        "6": "1/2 teaspoon baking soda",
+        "7": "1/4 teaspoon salt",
+        "8": "1/2 cup blueberries (fresh or frozen)"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -423,44 +427,48 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a food processor, blend chickpeas, avocado, olive oil, garlic, and lemon juice until smooth.",
+          "description": "Preheat the oven to 350°F (175°C). Mix bananas, melted coconut oil, maple syrup, egg, and vanilla in a bowl.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Season with salt and pepper."
+          "description": "In a separate bowl, whisk together flour, baking soda, and salt."
         },
         "3": {
           "title": "Step 3",
-          "description": "Serve with sliced vegetables or whole-grain crackers."
+          "description": "Combine wet and dry ingredients, fold in blueberries, spoon into mini muffin tins, and bake until golden."
         }
      }
   },
   {
      "id":"56",
-     "image":"https://media.istockphoto.com/id/496689738/photo/assorted-nuts.jpg?s=612x612&w=0&k=20&c=lJhqPaHqwvXiDFNni5nB9EKgvYlqMEljI-0JzaB-ZNA=",
-     "title":"Turmeric Roasted Nuts",
+     "image":"https://cdn.pixabay.com/photo/2021/01/11/12/24/muffins-5908287_1280.jpg",
+     "title":"Spinach and Cheese Savory Muffins",
      "createdOn":"15 March 2022",
-     "prepTime":"20 minutes",
-     "foodType":["breakfast", "snack", "vegetarian"],
+     "prepTime":"40 minutes",
+     "foodType":["bread", "snack", "vegetarian"],
      "author":"Leslie Alexander",
      "authorImage":"/imgs/leslie-alexander.png",
      "nutritionInfo": {
-      "calories": "180 kcal",
-      "totalFat": "15g",
-      "protein": "5g",
-      "carbohydrate": "8g",
+      "calories": "90  kcal",
+      "totalFat": "4g",
+      "protein": "3g",
+      "carbohydrate": "3g",
       "cholesterol": "0mg"
      },
-     "description": "A crunchy and flavorful nut mix with the anti-inflammatory benefits of turmeric.",
+     "description": "Savory muffins packed with spinach and cheese, introducing a delightful twist to baby's taste buds.",
      "ingredients": {
       "main": {
-        "1": "1 cup mixed nuts (almonds, walnuts, cashews)",
-        "2": "1 tbsp olive oil",
-        "3": "1 tsp turmeric powder",
-        "4": "1/2 tsp cayenne pepper (optional)",
-        "5": "Salt to taste"
+        "1": "1 cup fresh spinach, finely chopped",
+        "2": "1/2 cup shredded cheddar cheese",
+        "3": "1 cup all-purpose flour",
+        "4": "1 teaspoon baking powder",
+        "5": "1/4 teaspoon salt",
+        "6": "1/2 cup milk",
+        "7": "1/4 cup melted butter",
+        "8": "1 egg"
+        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -471,17 +479,17 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Preheat oven to 325°F (163°C).",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, combine chopped spinach and shredded cheddar cheese.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "In a bowl, toss nuts with olive oil, turmeric, cayenne pepper (if using), and salt."
+          "description": "In a separate bowl, whisk together flour, baking powder, baking soda, and salt."
         },
         "3": {
           "title": "Step 3",
-          "description": "Spread the nuts on a baking sheet and roast for 15 minutes, stirring halfway. Allow to cool before serving."
+          "description": "Combine milk, melted butter, and egg in another bowl. Add the wet ingredients to the dry ingredients, then fold in the spinach and cheese mixture. Spoon into muffin cups and bake until a toothpick comes out clean."
         }
      }
   },
