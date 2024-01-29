@@ -187,7 +187,7 @@
   },
   {
      "id":"51",
-     "image":"https://cdn.pixabay.com/photo/2021/09/08/19/44/toast-6607782_640.jpg",
+     "image":"https://cdn.pixabay.com/photo/2022/02/12/21/22/toast-7009956_640.jpg",
      "title":"Avocado and Egg Smash",
      "createdOn":"15 March 2024",
      "prepTime":"15  minutes",
@@ -233,28 +233,33 @@
   },
   {
      "id":"52",
-     "image":"https://www.shutterstock.com/image-photo/mixed-berry-smoothie-garnished-fresh-600nw-1726762417.jpg",
-     "title":"Berry and Almond Butter Smoothie",
+     "image":"https://cdn.pixabay.com/photo/2017/06/30/21/49/bread-2459926_1280.jpg",
+     "title":"Sweet Potato Banana Bread",
      "createdOn":"15 March 2022",
-     "prepTime":"30 minutes",
-     "foodType":["breakfast", "vegetarian","healthy"],
+     "prepTime":"45 minutes",
+     "foodType":["bread", "vegetarian","healthy"],
      "author":"MG Developer",
      "authorImage":"/imgs/courtney-henry.png",
      "nutritionInfo": {
-      "calories": "219.9 kcal",
-      "totalFat": "10.7 g",
-      "protein": "8.9 g",
-      "carbohydrate": "22.3 g",
+      "calories": "120 kcal",
+      "totalFat": "3g",
+      "protein": "3g",
+      "carbohydrate": "22g",
       "cholesterol": "0,0374 g"
      },
-     "description": "Berry and Almond Butter Smoothie",
+     "description": "A moist and nutritious bread combining the sweetness of sweet potatoes and bananas, perfect for tiny hands.",
      "ingredients": {
       "main": {
-        "1": "1 cup of frozen mixed berries",
-        "2": "1 banana, peeled",
-        "3": "2 tablespoons of almond butter",
-        "4": "1 cup of unsweetened almond milk ",
-        "5": "1 teaspoon of honey (optional)"
+        "1": "1 cup mashed sweet potatoes",
+        "2": "2 ripe bananas, mashed",
+        "3": "1/4 cup melted coconut oil",
+        "4": "2 eggs",
+        "5": "1 teaspoon vanilla extract",
+        "6": "1 1/2 cups whole wheat flour",
+        "7": "1 teaspoon baking soda",
+        "8": "1/2 teaspoon cinnamon",
+        "9": "A pinch of salt"
+
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -265,43 +270,51 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Combine the frozen mixed berries, banana, almond butter, unsweetened almond milk, and honey (if using) in a blender.",
+          "description": "Preheat the oven to 350°F (175°C). In a bowl, mix sweet potatoes, bananas, coconut oil, eggs, and vanilla.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Blend until smooth."
+          "description": "In a separate bowl, whisk together flour, baking soda, cinnamon, and salt."
         },
         "3": {
           "title": "Step 3",
-          "description": "Serve immediately."
+          "description": "Combine wet and dry ingredients, pour into a greased loaf pan, and bake until a toothpick comes out clean."
         }
      }
   },
   {
      "id":"53",
-     "image":"https://img.freepik.com/fotos-premium/agua-detox-pepino-limon-menta-botella-vidrio_219795-1353.jpg",
-     "title":"Cucumber Mint Infused Water",
+     "image":"https://cdn.pixabay.com/photo/2018/09/10/19/21/bread-3667829_1280.jpg",
+     "title":"Apple Zucchini Bread",
      "createdOn":"15 March 2024",
-     "prepTime":"5  minutes",
-     "foodType":["drinks", "dessert", "vegetarian"],
+     "prepTime":"55 minutes",
+     "foodType":["bread", "dessert", "vegetarian"],
      "author":"MG Developer",
      "authorImage":"/imgs/courtney-henry.png",
      "nutritionInfo": {
-      "calories": "0 kcal",
-      "totalFat": "0 g",
-      "protein": "0 g",
-      "carbohydrate": "0 g",
+      "calories": "100 kcal",
+      "totalFat": "2.5g",
+      "protein": "2g",
+      "carbohydrate": "2g",
       "cholesterol": "0,0374 g"
      },
-     "description": "A hydrating and refreshing drink infused with anti-inflammatory cucumber and mint.",
+     "description": "A delicious way to sneak in veggies with the sweetness of apples in a soft, baby-friendly bread.",
      "ingredients": {
       "main": {
-        "1": "1/2 cucumber, sliced",
-        "2": "Handful of fresh mint leaves",
-        "3": "1 lemon, sliced",
-        "4": "Water"
+        "1": "1 cup grated zucchini, excess water squeezed out",
+        "2": "1/2 cup applesauce",
+        "3": "1/4 cup melted butter",
+        "4": "1/2 cup brown sugar",
+        "5": "1 egg",
+        "6": "1 teaspoon vanilla extract",
+        "7": "1 1/2 cups all-purpose flour",
+        "8": "1/2 teaspoon baking powder",
+        "9": "1/2 teaspoon cinnamon",
+        "10": "1/2 teaspoon baking soda",
+        "11": "A pinch of salt"
+
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -312,41 +325,41 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Combine cucumber slices, mint leaves, and lemon slices in a pitcher",
+          "description": "Preheat the oven to 350°F (175°C). Preheat the oven to 350°F (175°C).",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Fill the pitcher with water."
+          "description": "Mix zucchini, applesauce, melted butter, brown sugar, egg, and vanilla in a bowl."
         },
         "3": {
           "title": "Step 3",
-          "description": "Refrigerate for a few hours before serving."
+          "description": "Combine wet and dry ingredients, pour into a greased loaf pan, and bake until a toothpick comes out clean."
         }
      }
   },
   {
      "id":"54",
-     "image":"https://media.istockphoto.com/id/1182430232/photo/energy-balls-with-healthy-ingredients-on-marble.jpg?s=612x612&w=0&k=20&c=dxaEB2lB9OJoi5dU33qrOCocnI4qfC-eRZezlVNQtgw=",
-     "title":"Almond and Turmeric Energy Bites",
+     "image":"https://cdn.pixabay.com/photo/2016/03/05/22/21/appetite-1239258_640.jpg",
+     "title":"Carrot Oat Bread Bites",
      "createdOn":"15 March 2022",
-     "prepTime":"15 minutes",
-     "foodType":["healthy", "vegetarian", "snack"],
+     "prepTime":"45 minutes",
+     "foodType":["bread", "vegetarian", "snack"],
      "author":"MG Developer",
      "authorImage":"/imgs/robert-fox.png",
      "nutritionInfo": {
-      "calories": "120  kcal",
-      "totalFat": "8g",
-      "protein": "3g",
-      "carbohydrate": "10g",
+      "calories": "80  kcal",
+      "totalFat": "2.5g",
+      "protein": "12g ",
+      "carbohydrate": "1g",
       "cholesterol": "0mg"
      },
-     "description": "A nutritious and flavorful snack with the anti-inflammatory power of turmeric.",
+     "description": "Mini carrot and oat bread bites, perfect for little fingers to grasp and nibble on.",
      "ingredients": {
       "main": {
-        "1": "1 cup almonds",
-        "2": "1/4 cup rolled oats",
+        "1": "1/2 cup grated carrots",
+        "2": "1/4 cup melted coconut oil",
         "3": "2 tbsp honey",
         "4": "1 tsp turmeric powder",
         "5": "1/2 tsp cinnamon",
