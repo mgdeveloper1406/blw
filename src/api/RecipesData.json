@@ -845,30 +845,29 @@
   },
   {
      "id":"106",
-     "image":"https://cdn.pixabay.com/photo/2018/03/24/12/49/food-3256559_640.jpg",
-     "title":"Turmeric Chicken and Vegetable Skewers",
-     "createdOn":"15 March 2022",
-     "prepTime":"20 minutes",
-     "foodType":["main"],
+     "image":"https://cdn.pixabay.com/photo/2018/09/16/22/51/ice-cream-3682563_640.jpg",
+     "title":"Avocado Chocolate Pudding",
+     "createdOn":"15 March 2024",
+     "prepTime":"10 minutes",
+     "foodType":["dessert", "vegetarian", "snack"],
      "author":"MG Developer",
      "authorImage":"/imgs/albert-flores.png",
      "nutritionInfo": {
-      "calories": "280 kcal",
-      "totalFat": "12g",
-      "protein": "25g",
-      "carbohydrate": "18g",
-      "cholesterol": "60mg"
+      "calories": "120  kcal",
+      "totalFat": "8g",
+      "protein": "2g",
+      "carbohydrate": "4g",
+      "cholesterol": "0mg"
      },
-     "description": "Grilled chicken skewers marinated with turmeric, served with a colorful array of vegetables.",
+     "description": "Creamy and indulgent chocolate pudding made with ripe avocados, offering a healthy twist on a classic dessert",
      "ingredients": {
       "main": {
-        "1": "1 lb chicken breast, cut into cubes",
-        "2": "1 tsp turmeric powder",
-        "3": "2 tbsp olive oil",
-        "4": "1 zucchini, sliced",
-        "5": "1 red onion, sliced",
-        "6": "1 bell pepper, sliced"
-      },
+        "1": "2 ripe avocados",
+        "2": "1/4 cup cocoa powder",
+        "3": "1/4 cup maple syrup or honey",
+        "4": "1 teaspoon vanilla extract",
+        "5": "A pinch of salt"
+         },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
         "2": "Lorem ipsum dolor sit amet",
@@ -878,49 +877,43 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a bowl, mix turmeric, olive oil, salt, and pepper. Marinate chicken cubes in the mixture for at least 30 minutes.",
+          "description": "In a blender or food processor, combine ripe avocados, cocoa powder, maple syrup or honey, vanilla extract, and salt.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Thread marinated chicken, zucchini, red onion, and bell pepper onto skewers."
+          "description": "Blend until smooth and creamy, scraping down the sides as needed."
         },
         "3": {
           "title": "Step 3",
-          "description": "Grill skewers until chicken is cooked through and vegetables are charred."
+          "description": "Transfer the pudding to serving cups and chill in the refrigerator for at least 1 hour before serving"
         }
      }
   },
   {
      "id":"107",
      "image":"https://cdn.pixabay.com/photo/2018/10/10/22/28/lentil-soup-3738547_1280.jpg",
-     "title":"Lentil and Vegetable Soup",
+     "title":"Berry Yogurt Popsicles",
      "createdOn":"15 March 2022",
-     "prepTime":"40 minutes",
+     "prepTime":"10 minutes",
      "foodType":["healthy", "vegetarian", "main"],
      "author":"MG Developer",
      "authorImage":"/imgs/albert-flores.png",
      "nutritionInfo": {
-      "calories": "250 kcal",
-      "totalFat": "6g",
-      "protein": "15g",
-      "carbohydrate": "35g",
-      "cholesterol": "0mg"
+      "calories": "50  kcal",
+      "totalFat": "1g",
+      "protein": "2g",
+      "carbohydrate": "8g",
+      "cholesterol": "5mg"
      },
-     "description": "Hearty and anti-inflammatory lentil soup with a mix of colorful vegetables.",
+     "description": "Refreshing and nutritious popsicles made with Greek yogurt and mixed berries, perfect for soothing teething gums.",
      "ingredients": {
       "main": {
-        "1": "1 cup green lentils, rinsed",
-        "2": "1 onion, diced",
-        "3": "2 carrots, diced",
-        "4": "2 celery stalks, diced",
-        "5": "3 cloves garlic, minced",
-        "6": "1 tsp turmeric powder",
-        "7": "1 tsp cumin",
-        "8": "6 cups vegetable broth",
-        "9": "Salt and pepper to taste"
-
+        "1": "1 cup Greek yogurt",
+        "2": "1/2 cup mixed berries (e.g., strawberries, blueberries, raspberries)",
+        "3": "1 tablespoon honey or maple syrup (optional)"
+        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -931,48 +924,42 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a pot, sauté onion, carrots, and celery until softened.",
+          "description": "In a blender or food processor, combine Greek yogurt, mixed berries, and honey or maple syrup (if using).",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Add garlic, turmeric, and cumin. Cook for 1-2 minutes."
+          "description": "ABlend until smooth. Pour the mixture into popsicle molds, insert sticks, and freeze for 4-6 hours or until completely frozen."
         },
         "3": {
           "title": "Step 3",
-          "description": "Add lentils and vegetable broth. Bring to a boil, then simmer for 25-30 minutes. Season with salt and pepper."
+          "description": "Add lentils and vegetable broth. Bring to a boil, then simmer for 25-30 minutes. Season with salt and pepper. To remove the popsicles from the molds, run them under warm water for a few seconds before gently pulling them out."
         }
      }
   },
   {
      "id":"108",
-     "image":"https://cdn.pixabay.com/photo/2023/10/05/11/47/sweet-potatoes-8295778_1280.jpg",
-     "title":"Sweet Potato and Chickpea Curry",
+     "image":"https://cdn.pixabay.com/photo/2015/05/22/06/07/peach-778334_1280.jpg",
+     "title":"Peach Banana Soft Serve",
      "createdOn":"15 March 2022",
      "prepTime":"35 minutes",
      "foodType":["main"],
      "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
-      "calories": "320 kcal",
-      "totalFat": "8g",
-      "protein": "10g",
-      "carbohydrate": "55g",
+      "calories": "60  kcal",
+      "totalFat": "0g",
+      "protein": "1g",
+      "carbohydrate": "15g",
       "cholesterol": "0mg"
      },
-     "description": "A flavorful and anti-inflammatory curry featuring sweet potatoes and chickpeas.",
+     "description": " A creamy and naturally sweet soft serve made with frozen peaches and bananas, offering a guilt-free treat.",
      "ingredients": {
       "main": {
-        "1": "2 sweet potatoes, peeled and diced",
-        "2": "1 can chickpeas, drained and rinsed",
-        "3": "1 onion, chopped",
-        "4": "2 tomatoes, diced",
-        "5": "1 cup coconut milk",
-        "6": "2 tbsp curry powder",
-        "7": "1 tbsp olive oil"
-
-
+        "1": "1 ripe banana, sliced and frozen",
+        "2": "1 cup sliced peaches, frozen"
+        
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -983,17 +970,17 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a pot, sauté onion in olive oil until translucent.",
+          "description": "In a blender or food processor, combine frozen banana slices and frozen peach slices.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Add curry powder and cook for 1-2 minutes."
+          "description": "Blend until smooth and creamy, scraping down the sides as needed."
         },
         "3": {
           "title": "Step 3",
-          "description": "Stir in sweet potatoes, chickpeas, tomatoes, and coconut milk. Simmer until sweet potatoes are tender."
+          "description": "Transfer the soft serve to serving bowls and enjoy immediately."
         }
      }
   },
