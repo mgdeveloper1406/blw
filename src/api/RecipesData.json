@@ -691,28 +691,29 @@
   {
      "id":"103",
      "image":"https://cdn.pixabay.com/photo/2023/05/31/11/15/fish-8031138_640.jpg",
-     "title":"Beef and Sweet Potato Mash",
+     "title":"Turkey and Veggie Meatloaf",
      "createdOn":"15 March 2022",
-     "prepTime":"25 minutes",
+     "prepTime":"55 minutes",
      "foodType":["healthy", "meat"],
      "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
-      "calories": "300 kcal",
-      "totalFat": "18g",
-      "protein": "30g",
-      "carbohydrate": "2g",
-      "cholesterol": "80mg"
+      "calories": "160  kcal",
+      "totalFat": "5g",
+      "protein": "15g",
+      "carbohydrate": "12g",
+      "cholesterol": "40mg"
      },
-     "description": "A flavorful and anti-inflammatory dinner featuring omega-3-rich salmon with the added benefits of turmeric and lemon.",
+     "description": "A wholesome meatloaf packed with ground turkey and nutritious vegetables, baked to perfection.",
      "ingredients": {
       "main": {
-        "1": "4 salmon fillets",
-        "2": "1 tsp turmeric powder",
-        "3": "1 tsp paprika",
-        "4": "2 tbsp olive oil",
-        "5": "Salt and pepper to taste",
-        "6": "1 lemon, sliced"
+        "1": "1/2 pound ground turkey",
+        "2": "1/4 cup finely chopped mixed vegetables (e.g., carrots, onions, bell peppers)",
+        "3": "1/4 cup breadcrumbs",
+        "4": "1 egg",
+        "5": "2 tablespoons ketchup or tomato sauce",
+        "6": "1 teaspoon Worcestershire sauce",
+        "7": "Salt and pepper to taste"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
