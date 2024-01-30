@@ -986,31 +986,30 @@
   },
   {
      "id":"151",
-     "image":"https://cdn.pixabay.com/photo/2016/11/22/18/58/bowl-1850039_640.jpg",
-     "title":"Sweet Potato and Kale Buddha Bowl",
+     "image":"https://cdn.pixabay.com/photo/2017/03/12/10/30/blueberry-2136750_1280.jpg",
+     "title":"Banana Blueberry Oat Bites",
      "createdOn":"15 March 2024",
      "prepTime":"30 minutes",
      "foodType":["main", "snack", "vegetarian"],
      "author":"MG Developer",
      "authorImage":"/imgs/leslie-alexander.png",
      "nutritionInfo": {
-      "calories": "320  kcal",
-      "totalFat": "12g",
-      "protein": "12g",
-      "carbohydrate": "40g",
-      "cholesterol": "0mg"
+      "calories": "70 kcal",
+      "totalFat": "1g",
+      "protein": "2g",
+      "carbohydrate": "14g",
+      "cholesterol": "5mg"
      },
-     "description": "A nourishing and colorful Buddha bowl with roasted sweet potatoes and kale.",
+     "description": "Soft and chewy bites packed with the natural sweetness of bananas and blueberries, perfect for little fingers to grasp and explore.",
      "ingredients": {
       "main": {
-        "1": "1 cup quinoa, cooked",
-        "2": "1 sweet potato, diced and roasted",
-        "3": "1 cup kale, massaged",
-        "4": "1/2 cup cherry tomatoes, halved",
-        "5": "1/4 cup hummus",
-        "6": "1 tbsp tahini",
-        "7": "Sesame seeds for garnish",
-        "8": "Salt and pepper to taste"
+        "1": "1 ripe banana, mashed",
+        "2": "1/4 cup rolled oats",
+        "3": "2 tablespoons blueberries, chopped",
+        "4": "1 tablespoon melted coconut oil",
+        "5": "1 tablespoon honey or maple syrup",
+        "6": "1/4 teaspoon cinnamon (optional)"
+      
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -1021,46 +1020,49 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Arrange quinoa, roasted sweet potatoes, kale, and cherry tomatoes in a bowl.",
+          "description": "Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Drizzle with hummus and tahini."
+          "description": "In a bowl, mix mashed banana, rolled oats, chopped blueberries, melted coconut oil, honey or maple syrup, and cinnamon (if using) until well combined."
         },
         "3": {
           "title": "Step 3",
-          "description": "Garnish with sesame seeds, salt, and pepper."
+          "description": "Drop spoonfuls of the mixture onto the prepared baking sheet and flatten slightly with a fork."
+        },
+        "4": {
+          "title": "Step 4",
+          "description": "Bake for 15 minutes or until golden brown. Allow to cool before serving."
         }
      }
   },
   {
      "id":"152",
-     "image":"/imgs/image-tr2.png",
-     "title":"Lentil and Vegetable Wrap",
+     "image":"https://cdn.pixabay.com/photo/2023/07/20/11/00/salty-muffin-8139064_1280.jpg",
+     "title":"Cheesy Veggie Quinoa Bites",
      "createdOn":"15 March 2022",
-     "prepTime":"20  minutes",
-     "foodType":["main"],
-     "author":"Albert Flores",
+     "prepTime":"25 minutes",
+     "foodType":["snack"],
+     "author":"MG Developer",
      "authorImage":"/imgs/albert-flores.png",
      "nutritionInfo": {
-      "calories": "280  kcal",
-      "totalFat": "8g",
-      "protein": "15g",
-      "carbohydrate": "40g",
-      "cholesterol": "0mg"
+      "calories": "50 kcal",
+      "totalFat": "3g",
+      "protein": "4g",
+      "carbohydrate": "12g",
+      "cholesterol": "10mg"
      },
-     "description": "A fiber-rich and satisfying wrap filled with lentils and colorful vegetables.",
+     "description": "Bite-sized quinoa bites loaded with cheese and finely chopped vegetables, offering a savory and nutritious snack option.",
      "ingredients": {
       "main": {
-        "1": "1 whole-grain wrap",
-        "2": "1/2 cup cherry tomatoes, halved",
-        "3": "1/2 cucumber, sliced",
-        "4": "1/4 cup red onion, thinly sliced",
-        "5": "2 tbsp Greek yogurt",
-        "6": "Fresh herbs (such as dill or parsley)",
-        "7": "Salt and pepper to taste"
+        "1": "1/2 cup cooked quinoa",
+        "2": "1/4 cup shredded cheddar cheese",
+        "3": "1/4 cup finely chopped mixed vegetables (e.g., carrots, broccoli, bell peppers)",
+        "4": "1 egg",
+        "5": "1 tablespoon breadcrumbs",
+        "6": "A pinch of salt and pepper"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -1071,47 +1073,41 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "Warm the wrap and layer with cooked lentils, cherry tomatoes, cucumber, and red onion.",
+          "description": "Preheat the oven to 350°F (175°C) and grease a mini muffin tin.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Drizzle with Greek yogurt and sprinkle with fresh herbs."
+          "description": "In a bowl, mix cooked quinoa, shredded cheddar cheese, chopped vegetables, egg, breadcrumbs, salt, and pepper until well combined."
         },
         "3": {
           "title": "Step 3",
-          "description": "Season with salt and pepper."
+          "description": "Spoon the mixture into the prepared muffin tin, filling each cup to the top. Bake for 20 minutes or until golden brown and set. Allow to cool slightly before serving."
         }
      }
   },
   {
      "id":"153",
-     "image":"https://img.freepik.com/premium-photo/toasts-with-salmon-vegetables-roll-with-fish-vegetableslavash-rolls-with-salmon-cheese-green_311725-309.jpg",
-     "title":"Grilled Vegetable and Salmon Wrap",
+     "image":"https://cdn.pixabay.com/photo/2015/12/07/11/48/apple-1080688_1280.jpg",
+     "title":"Cinnamon Apple Slices",
      "createdOn":"15 March 2024",
      "prepTime":"25 minutes",
-     "foodType":["main", "snack"],
-     "author":"Wade Warren",
+     "foodType":["snack"],
+     "author":"MG Developer",
      "authorImage":"/imgs/wade-warren.png",
      "nutritionInfo": {
-      "calories": "300 kcal",
-      "totalFat": "14g",
-      "protein": "20g",
-      "carbohydrate": "25g",
-      "cholesterol": "40mg"
+      "calories": "50  kcal",
+      "totalFat": "0g",
+      "protein": "0g",
+      "carbohydrate": "14g",
+      "cholesterol": "0mg"
      },
-     "description": "A wholesome and anti-inflammatory wrap filled with grilled vegetables and salmon.",
+     "description": "Crisp apple slices lightly dusted with cinnamon, providing a naturally sweet and refreshing snack for little ones.",
      "ingredients": {
       "main": {
-        "1": "1 whole-grain wrap",
-        "2": "4 oz grilled salmon",
-        "3": "1/2 zucchini, sliced",
-        "4": "1 bell pepper, sliced",
-        "5": "1 cup spinach leaves",
-        "6": "1 tbsp olive oil",
-        "7": "1 tsp balsamic vinegar",
-        "8": "Salt and pepper to taste"
+        "1": "1 apple, cored and thinly sliced",
+        "2": "1/2 teaspoon ground cinnamon"
       },
       "sauce": {
         "1": "Lorem ipsum dolor sit amet",
@@ -1122,17 +1118,17 @@
      "directions": {
         "1": {
           "title": "Step 1",
-          "description": "In a pan, sauté zucchini and bell pepper in olive oil until tender.",
+          "description": "Place the apple slices in a bowl.",
           "image": "/imgs/woman-cooking.png",
           "imageAlt": "Woman cooking"
         },
         "2": {
           "title": "Step 2",
-          "description": "Warm the wrap and layer with grilled salmon, sautéed vegetables, and spinach."
+          "description": "Sprinkle ground cinnamon over the apple slices and toss gently to coat."
         },
         "3": {
           "title": "Step 3",
-          "description": "Drizzle with balsamic vinegar and season with salt and pepper. Wrap and serve."
+          "description": "Serve immediately or refrigerate for a crispier texture."
         }
      }
   }
