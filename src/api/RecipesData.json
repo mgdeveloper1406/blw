@@ -1606,29 +1606,31 @@
   },
   {
     "id":"152",
-    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
-    "title":"Spinach and Cheese Omelette",
+    "image":"https://cdn.pixabay.com/photo/2019/09/28/21/04/meatballs-4511773_1280.jpg",
+    "title":"Turkey and Sweet Potato Meatballs",
     "createdOn":"15 March 2022",
-    "prepTime":"15 minutes",
-    "foodType":["breakfast"],
+    "prepTime":"35 minutes",
+    "foodType":["meat"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
-     "calories": "100  kcal",
-     "totalFat": "6g",
+     "calories": "90  kcal",
+     "totalFat": "4g",
      "protein": "8g",
-     "carbohydrate": "3g",
-     "cholesterol": "70mg"
+     "carbohydrate": "5g",
+     "cholesterol": "30mg"
     },
-    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "description": "Tender and flavorful meatballs made with lean ground turkey and mashed sweet potatoes, packed with protein and essential nutrients for your little one.",
     "ingredients": {
      "main": {
-       "1": "1 egg",
-       "2": "1 tablespoon milk (or breastmilk/formula)",
-       "3": "1/4 cup chopped spinach",
-       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
-       "5": "Salt and pepper to taste",
-       "6": "Butter or oil for cooking"
+       "1": "1/2 cup mashed sweet potatoes",
+       "2": "1/2 lb lean ground turkey",
+       "3": "1/4 cup breadcrumbs",
+       "4": "1 egg",
+       "5": "1/2 teaspoon garlic powder",
+       "6": "1/2 teaspoon dried parsley",
+       "7": "Salt and pepper to taste"
+       
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1639,45 +1641,54 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "description": "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
        "2": {
          "title": "Step 2",
-         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+         "description": "In a large bowl, mix together mashed sweet potatoes, ground turkey, breadcrumbs, egg, garlic powder, dried parsley, salt, and pepper until well combined."
        },
        "3": {
          "title": "Step 3",
-         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
-       }
+         "description": "Shape the mixture into small meatballs and place them on the prepared baking sheet."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Bake for 20 minutes or until cooked through and golden brown."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Allow the meatballs to cool slightly before serving. Serve with a side of mashed avocado or yogurt for added flavor."
+      }
     }
   },
   {
-    "id":"152",
+    "id":"155",
     "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
-    "title":"Spinach and Cheese Omelette",
+    "title":"Chicken and Vegetable Casserole",
     "createdOn":"15 March 2022",
-    "prepTime":"15 minutes",
-    "foodType":["breakfast"],
+    "prepTime":"50 minutes",
+    "foodType":["meat"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
-     "calories": "100  kcal",
-     "totalFat": "6g",
-     "protein": "8g",
-     "carbohydrate": "3g",
-     "cholesterol": "70mg"
+     "calories": "130   kcal",
+     "totalFat": "5g",
+     "protein": "12g",
+     "carbohydrate": "10g",
+     "cholesterol": "40mg"
     },
-    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "description": "Comforting casserole filled with tender chunks of chicken breast and a medley of vegetables, a hearty and nutritious meal for your little one.",
     "ingredients": {
      "main": {
-       "1": "1 egg",
-       "2": "1 tablespoon milk (or breastmilk/formula)",
-       "3": "1/4 cup chopped spinach",
-       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
-       "5": "Salt and pepper to taste",
-       "6": "Butter or oil for cooking"
+       "1": "1/2 lb boneless, skinless chicken breast, diced",
+       "2": "1 cup mixed vegetables (e.g., peas, carrots, corn)",
+       "3": "1/2 cup chicken broth (low-sodium)",
+       "4": "2 tablespoons flour",
+       "5": "1 tablespoon olive oil",
+       "6": "1/2 teaspoon dried thyme",
+       "7": "Salt and pepper to taste"
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1688,18 +1699,34 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "description": "Preheat the oven to 375°F (190°C) and lightly grease a baking dish.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
        "2": {
          "title": "Step 2",
-         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+         "description": "Heat olive oil in a skillet over medium heat. Add diced chicken breast and cook until browned on all sides."
        },
        "3": {
          "title": "Step 3",
-         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
-       }
+         "description": "Stir in mixed vegetables and dried thyme, and cook for another 3-4 minutes."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Sprinkle flour over the chicken and vegetable mixture, stirring to coat evenly. "
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Gradually pour in chicken broth and milk, stirring constantly until the sauce thickens."
+      },
+      "6": {
+        "title": "Step 6",
+        "description": "Transfer the mixture to the prepared baking dish and bake for 25-30 minutes, or until bubbly and golden brown on top."
+      },
+      "7": {
+        "title": "Step 7",
+        "description": "Allow the casserole to cool slightly before serving. Serve as is or with a side of mashed potatoes or rice for a complete meal."
+      }
     }
   },
   {
