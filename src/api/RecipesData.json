@@ -1495,7 +1495,7 @@
   },
   {
     "id":"154",
-    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "image":"https://cdn.pixabay.com/photo/2017/06/30/21/49/bread-2459926_1280.jpg",
     "title":"Zucchini Banana Bread",
     "createdOn":"15 March 2022",
     "prepTime":"65 minutes",
@@ -1555,29 +1555,31 @@
   },
   {
     "id":"152",
-    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
-    "title":"Spinach and Cheese Omelette",
+    "image":"https://cdn.pixabay.com/photo/2015/08/18/22/56/blueberry-895000_1280.jpg",
+    "title":"Apple Cinnamon Muffins",
     "createdOn":"15 March 2022",
-    "prepTime":"15 minutes",
-    "foodType":["breakfast"],
+    "prepTime":"35 minutes",
+    "foodType":["bread", "dessert"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
-     "calories": "100  kcal",
-     "totalFat": "6g",
-     "protein": "8g",
-     "carbohydrate": "3g",
-     "cholesterol": "70mg"
+     "calories": "110  kcal",
+     "totalFat": "4g",
+     "protein": "2g",
+     "carbohydrate": "18g",
+     "cholesterol": "25mg"
     },
-    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "description": "Tender muffins filled with chunks of fresh apples and fragrant cinnamon, a delightful treat for breakfast or snack time.",
     "ingredients": {
      "main": {
-       "1": "1 egg",
-       "2": "1 tablespoon milk (or breastmilk/formula)",
-       "3": "1/4 cup chopped spinach",
-       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
-       "5": "Salt and pepper to taste",
-       "6": "Butter or oil for cooking"
+       "1": "1 cup diced apples",
+       "2": "1/4 cup melted coconut oil",
+       "3": "1/4 cup honey or maple syrup",
+       "4": "1 egg",
+       "5": "1 cup whole wheat flour",
+       "6": "1/2 teaspoon baking soda",
+       "7": "1 teaspoon cinnamon",
+       "8": "A pinch of salt"
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1588,7 +1590,7 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "description": "Preheat the oven to 350°F (175°C) and line a muffin tin with paper liners.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
