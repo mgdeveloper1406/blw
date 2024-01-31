@@ -1731,29 +1731,29 @@
   },
   {
     "id":"156",
-    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
-    "title":"Spinach and Cheese Omelette",
+    "image":"https://cdn.pixabay.com/photo/2020/12/18/13/57/quesadilla-5842087_640.jpg",
+    "title":"Chicken and Spinach Quesadillas",
     "createdOn":"15 March 2022",
-    "prepTime":"15 minutes",
-    "foodType":["breakfast"],
+    "prepTime":"25 minutes",
+    "foodType":["meat"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
-     "calories": "100  kcal",
+     "calories": "130   kcal",
      "totalFat": "6g",
      "protein": "8g",
-     "carbohydrate": "3g",
-     "cholesterol": "70mg"
+     "carbohydrate": "10 g",
+     "cholesterol": "25mg"
     },
-    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "description": "Cheesy quesadillas filled with tender chicken and nutritious spinach, a fun and tasty way to introduce new flavors to your baby.",
     "ingredients": {
      "main": {
-       "1": "1 egg",
-       "2": "1 tablespoon milk (or breastmilk/formula)",
-       "3": "1/4 cup chopped spinach",
-       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
-       "5": "Salt and pepper to taste",
-       "6": "Butter or oil for cooking"
+       "1": "1/2 cup cooked shredded chicken breast",
+       "2": "1/4 cup chopped spinach",
+       "3": "2 small whole wheat tortillas",
+       "4": "1/4 cup shredded cheddar cheese",
+       "5": "Cooking spray"
+       
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1764,18 +1764,30 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "description": "In a bowl, mix together shredded chicken breast and chopped spinach until well combined.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
        "2": {
          "title": "Step 2",
-         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+         "description": "Place one tortilla on a flat surface and sprinkle half of the shredded cheddar cheese evenly over the tortilla."
        },
        "3": {
          "title": "Step 3",
-         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
-       }
+         "description": "Spread the chicken and spinach mixture over the cheese, then sprinkle the remaining cheese on top."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Place the second tortilla over the filling to create a sandwich."
+      },
+      "3": {
+        "title": "Step 5",
+        "description": "Heat a skillet over medium heat and lightly coat with cooking spray. Carefully transfer the quesadilla to the skillet and cook for 2-3 minutes on each side, or until the tortilla is golden brown and the cheese is melted."
+      },
+      "3": {
+        "title": "Step 6",
+        "description": "Remove from the skillet and let cool slightly before slicing into wedges. Serve with a side of mashed avocado or salsa for dipping."
+      }
     }
   },
   {
