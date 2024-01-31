@@ -1439,7 +1439,7 @@
     "title":"Carrot Raisin Bread",
     "createdOn":"15 March 2022",
     "prepTime":"60 minutes",
-    "foodType":["breakfast"],
+    "foodType":["bread"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
@@ -1496,28 +1496,31 @@
   {
     "id":"154",
     "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
-    "title":"Spinach and Cheese Omelette",
+    "title":"Zucchini Banana Bread",
     "createdOn":"15 March 2022",
-    "prepTime":"15 minutes",
-    "foodType":["breakfast"],
+    "prepTime":"65 minutes",
+    "foodType":["bread"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
      "calories": "100  kcal",
      "totalFat": "6g",
      "protein": "8g",
-     "carbohydrate": "3g",
-     "cholesterol": "70mg"
+     "carbohydrate": "18g",
+     "cholesterol": "20mg"
     },
-    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "description": "Moist and flavorful bread infused with the sweetness of ripe bananas and the goodness of shredded zucchini, perfect for introducing vegetables in a delicious way.",
     "ingredients": {
      "main": {
-       "1": "1 egg",
-       "2": "1 tablespoon milk (or breastmilk/formula)",
-       "3": "1/4 cup chopped spinach",
-       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
-       "5": "Salt and pepper to taste",
-       "6": "Butter or oil for cooking"
+       "1": "1 ripe banana, mashed",
+       "2": "1/2 cup shredded zucchini",
+       "3": "1/4 cup melted butter",
+       "4": "1/4 cup honey or maple syrup",
+       "5": "1 egg",
+       "6": "1 cup whole wheat flour",
+       "7": "1/2 teaspoon baking soda",
+       "8": "1/2 teaspoon cinnamon",
+       "9": "A pinch of salt"
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1528,18 +1531,26 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "description": "IPreheat the oven to 350°F (175°C) and grease a loaf pan.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
        "2": {
          "title": "Step 2",
-         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+         "description": "In a bowl, mix together mashed banana, shredded zucchini, melted butter, honey or maple syrup, and egg until well combined."
        },
        "3": {
          "title": "Step 3",
-         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
-       }
+         "description": "Add whole wheat flour, baking soda, cinnamon, and salt to the wet ingredients and stir until just combined."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Pour the batter into the prepared loaf pan and smooth the top with a spatula. Bake for 50 minutes or until a toothpick inserted into the center comes out clean."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Allow the bread to cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+      }
     }
   },
   {
