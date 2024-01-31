@@ -1236,7 +1236,7 @@
   "title":"Sweet Potato Pancakes",
   "createdOn":"15 March 2022",
   "prepTime":"25 minutes",
-  "foodType":["breakfast", "dessert"],
+  "foodType":["breakfast"],
   "author":"MG Developer",
   "authorImage":"/imgs/albert-flores.png",
   "nutritionInfo": {
@@ -1330,12 +1330,12 @@
   }
 },
 {
-  "id":"152",
+  "id":"153",
   "image":"https://cdn.pixabay.com/photo/2016/11/19/13/25/baking-1839248_1280.jpg",
   "title":"Blueberry Banana Muffins",
   "createdOn":"15 March 2022",
   "prepTime":"35 minutes",
-  "foodType":["snack", "breakfast"],
+  "foodType":["dessert", "breakfast"],
   "author":"MG Developer",
   "authorImage":"/imgs/albert-flores.png",
   "nutritionInfo": {
@@ -1383,6 +1383,411 @@
       "description": "Bake for 20 minutes or until a toothpick inserted into the center comes out clean. Allow the muffins to cool before serving. Store leftovers in an airtight container in the refrigerator for up to 3 days."
     }
   }
+},
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "title":"Spinach and Cheese Omelette",
+    "createdOn":"15 March 2022",
+    "prepTime":"15 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "3g",
+     "cholesterol": "70mg"
+    },
+    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1 egg",
+       "2": "1 tablespoon milk (or breastmilk/formula)",
+       "3": "1/4 cup chopped spinach",
+       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+       "5": "Salt and pepper to taste",
+       "6": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    }
+  },
+  {
+    "id":"154",
+    "image":"https://cdn.pixabay.com/photo/2017/03/06/12/00/bread-2121304_640.jpg",
+    "title":"Carrot Raisin Bread",
+    "createdOn":"15 March 2022",
+    "prepTime":"60 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "90   kcal",
+     "totalFat": "2g",
+     "protein": "2g",
+     "carbohydrate": "16g",
+     "cholesterol": "20 mg"
+    },
+    "description": "Moist and lightly spiced bread filled with grated carrots and plump raisins, a nutritious and flavorful option for breakfast or snack time.",
+    "ingredients": {
+     "main": {
+       "1": "1 cup grated carrots",
+       "2": "1/4 cup melted butter",
+       "3": "1/4 cup honey or maple syrup",
+       "4": "1 egg",
+       "5": "1 cup whole wheat flour",
+       "6": "1/2 teaspoon baking powder",
+       "7": "1/2 teaspoon cinnamon",
+       "8": "1/4 cup raisins",
+       "9": "A pinch of salt"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "Preheat the oven to 350°F (175°C) and grease a loaf pan. In a bowl, mix together grated carrots, melted butter, honey or maple syrup, and egg until well combined.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Add whole wheat flour, baking powder, cinnamon, raisins, and salt to the wet ingredients and stir until just combined."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Pour the batter into the prepared loaf pan and smooth the top with a spatula."
+       },
+       "4": {
+        "title": "Step 4",
+        "description": "Bake for 45 minutes or until a toothpick inserted into the center comes out clean."
+      },
+      "5": {
+        "title": "Step 5",
+        "description": "Allow the bread to cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+      }
+    }
+  },
+  {
+    "id":"154",
+    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "title":"Spinach and Cheese Omelette",
+    "createdOn":"15 March 2022",
+    "prepTime":"15 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "3g",
+     "cholesterol": "70mg"
+    },
+    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1 egg",
+       "2": "1 tablespoon milk (or breastmilk/formula)",
+       "3": "1/4 cup chopped spinach",
+       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+       "5": "Salt and pepper to taste",
+       "6": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "title":"Spinach and Cheese Omelette",
+    "createdOn":"15 March 2022",
+    "prepTime":"15 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "3g",
+     "cholesterol": "70mg"
+    },
+    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1 egg",
+       "2": "1 tablespoon milk (or breastmilk/formula)",
+       "3": "1/4 cup chopped spinach",
+       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+       "5": "Salt and pepper to taste",
+       "6": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "title":"Spinach and Cheese Omelette",
+    "createdOn":"15 March 2022",
+    "prepTime":"15 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "3g",
+     "cholesterol": "70mg"
+    },
+    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1 egg",
+       "2": "1 tablespoon milk (or breastmilk/formula)",
+       "3": "1/4 cup chopped spinach",
+       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+       "5": "Salt and pepper to taste",
+       "6": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "title":"Spinach and Cheese Omelette",
+    "createdOn":"15 March 2022",
+    "prepTime":"15 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "3g",
+     "cholesterol": "70mg"
+    },
+    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1 egg",
+       "2": "1 tablespoon milk (or breastmilk/formula)",
+       "3": "1/4 cup chopped spinach",
+       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+       "5": "Salt and pepper to taste",
+       "6": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "title":"Spinach and Cheese Omelette",
+    "createdOn":"15 March 2022",
+    "prepTime":"15 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "3g",
+     "cholesterol": "70mg"
+    },
+    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1 egg",
+       "2": "1 tablespoon milk (or breastmilk/formula)",
+       "3": "1/4 cup chopped spinach",
+       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+       "5": "Salt and pepper to taste",
+       "6": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    }
+  },
+  {
+    "id":"152",
+    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
+    "title":"Spinach and Cheese Omelette",
+    "createdOn":"15 March 2022",
+    "prepTime":"15 minutes",
+    "foodType":["breakfast"],
+    "author":"MG Developer",
+    "authorImage":"/imgs/albert-flores.png",
+    "nutritionInfo": {
+     "calories": "100  kcal",
+     "totalFat": "6g",
+     "protein": "8g",
+     "carbohydrate": "3g",
+     "cholesterol": "70mg"
+    },
+    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "ingredients": {
+     "main": {
+       "1": "1 egg",
+       "2": "1 tablespoon milk (or breastmilk/formula)",
+       "3": "1/4 cup chopped spinach",
+       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
+       "5": "Salt and pepper to taste",
+       "6": "Butter or oil for cooking"
+     },
+     "sauce": {
+       "1": "Lorem ipsum dolor sit amet",
+       "2": "Lorem ipsum dolor sit amet",
+       "3": "Lorem ipsum dolor sit amet"
+     }
+    },
+    "directions": {
+       "1": {
+         "title": "Step 1",
+         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "image": "/imgs/woman-cooking.png",
+         "imageAlt": "Woman cooking"
+       },
+       "2": {
+         "title": "Step 2",
+         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+       },
+       "3": {
+         "title": "Step 3",
+         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+       }
+    
+  }
+  
 }
 
 ]
