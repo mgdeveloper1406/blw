@@ -1386,29 +1386,27 @@
 },
   {
     "id":"152",
-    "image":"https://cdn.pixabay.com/photo/2023/09/21/12/06/breakfast-8266548_640.jpg",
-    "title":"Spinach and Cheese Omelette",
+    "image":"https://img.freepik.com/premium-photo/avocado-banana-face-mask_543222-1020.jpg",
+    "title":"Avocado Banana Mash",
     "createdOn":"15 March 2022",
-    "prepTime":"15 minutes",
+    "prepTime":"5 minutes",
     "foodType":["breakfast"],
     "author":"MG Developer",
     "authorImage":"/imgs/albert-flores.png",
     "nutritionInfo": {
      "calories": "100  kcal",
      "totalFat": "6g",
-     "protein": "8g",
+     "protein": "1g",
      "carbohydrate": "3g",
-     "cholesterol": "70mg"
+     "cholesterol": "0mg"
     },
-    "description": "A nutritious omelette packed with spinach and cheese, providing a protein-rich breakfast option for your little one.",
+    "description": "Creamy and nutritious mash made with ripe avocado and banana, packed with healthy fats and essential nutrients for your growing baby.",
     "ingredients": {
      "main": {
-       "1": "1 egg",
-       "2": "1 tablespoon milk (or breastmilk/formula)",
-       "3": "1/4 cup chopped spinach",
-       "4": "2 tablespoons grated cheese (e.g., cheddar or mozzarella)",
-       "5": "Salt and pepper to taste",
-       "6": "Butter or oil for cooking"
+       "1": "1 ripe avocado",
+       "2": "1 ripe banana",
+       "3": "Breastmilk or formula (optional, for thinning)",
+       "4": "Butter or oil for cooking"
      },
      "sauce": {
        "1": "Lorem ipsum dolor sit amet",
@@ -1419,17 +1417,17 @@
     "directions": {
        "1": {
          "title": "Step 1",
-         "description": "In a bowl, whisk together egg and milk until well combined. Stir in chopped spinach and grated cheese. Season with salt and pepper.",
+         "description": "Peel and pit the avocado, then mash it in a bowl using a fork. Peel the banana and mash it separately, then combine it with the mashed avocado.",
          "image": "/imgs/woman-cooking.png",
          "imageAlt": "Woman cooking"
        },
        "2": {
          "title": "Step 2",
-         "description": "Heat a small skillet over medium heat and add butter or oil. Pour the egg mixture into the skillet and cook until the edges start to set."
+         "description": "If desired, thin the mixture with a small amount of breastmilk or formula to achieve the desired consistency."
        },
        "3": {
          "title": "Step 3",
-         "description": "Use a spatula to gently lift the edges of the omelette and let the uncooked egg flow underneath. Once the omelette is set and golden brown on the bottom, fold it in half and transfer to a plate. Cut into bite-sized pieces before serving."
+         "description": "Serve the avocado banana mash as is or spread it onto strips of toast for added texture."
        }
     }
   },
@@ -1850,8 +1848,8 @@
         "description": "Let cool slightly before serving. Serve with a side of mashed avocado or yogurt for dipping."
 
       
-      }
-    
+      }   
+          
   }
   
 }
