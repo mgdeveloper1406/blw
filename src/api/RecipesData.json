@@ -1852,7 +1852,7 @@
       },
       {
         "id":"152",
-        "image":"https://cdn.pixabay.com/photo/2016/01/11/07/12/fish-nugget-1133143_1280.jpg",
+        "image":"https://cdn.pixabay.com/photo/2018/02/27/18/41/muesli-3186256_640.jpg",
         "title":"Apple Cinnamon Oatmeal",
         "createdOn":"15 March 2024",
         "prepTime":"10  minutes",
@@ -1903,6 +1903,66 @@
           "5": {
             "title": "Step 6",
             "description": "Remove from heat and let cool slightly before serving. Add breastmilk or formula to adjust the consistency if needed."
+        
+          
+          }
+        }
+      
+      },
+      {
+        "id":"152",
+        "image":"https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_1280.jpg",
+        "title":"Sweet Potato Pancakes",
+        "createdOn":"15 March 2024",
+        "prepTime":"25  minutes",
+        "foodType":["breakfast"],
+        "author":"MG Developer",
+        "authorImage":"/imgs/albert-flores.png",
+        "nutritionInfo": {
+         "calories": "100  kcal",
+         "totalFat": "2g",
+         "protein": "3g",
+         "carbohydrate": "25g",
+         "cholesterol": "0mg"
+        },
+        "description": "Soft and nutritious pancakes made with mashed sweet potatoes, perfect for introducing vegetables in a delicious way to your baby's breakfast.",
+        "ingredients": {
+         "main": {
+           "1": "1/2 cup mashed sweet potatoes",
+           "2": "1/4 cup whole wheat flour",
+           "3": "1 egg",
+           "4": "1/4 teaspoon cinnamon",
+           "5": "Butter or oil for cooking"
+           
+         },
+         "sauce": {
+           "1": "Lorem ipsum dolor sit amet",
+           "2": "Lorem ipsum dolor sit amet",
+           "3": "Lorem ipsum dolor sit amet"
+         }
+        },
+        "directions": {
+           "1": {
+             "title": "Step 1",
+             "description": "In a bowl, mix together mashed sweet potatoes, whole wheat flour, egg, and cinnamon until well combined.",
+             "image": "/imgs/woman-cooking.png",
+             "imageAlt": "Woman cooking"
+           },
+           "2": {
+             "title": "Step 2",
+             "description": "Heat a skillet or griddle over medium heat and lightly grease with butter or oil."
+           },
+           "3": {
+             "title": "Step 4",
+             "description": "Pour small amounts of batter onto the skillet to form pancakes."
+           },
+           "4": {
+            "title": "Step 5",
+            "description": "Cook for 2-3 minutes on each side, or until golden brown and cooked through."
+          },
+          "5": {
+            "title": "Step 6",
+            "description": "Serve warm with a drizzle of maple syrup or yogurt for added flavor."
         
           
           }  
