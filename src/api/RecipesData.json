@@ -1778,11 +1778,11 @@
         "title": "Step 4",
         "description": "Place the second tortilla over the filling to create a sandwich."
       },
-      "3": {
+      "5": {
         "title": "Step 5",
         "description": "Heat a skillet over medium heat and lightly coat with cooking spray. Carefully transfer the quesadilla to the skillet and cook for 2-3 minutes on each side, or until the tortilla is golden brown and the cheese is melted."
       },
-      "3": {
+      "6": {
         "title": "Step 6",
         "description": "Remove from the skillet and let cool slightly before slicing into wedges. Serve with a side of mashed avocado or salsa for dipping."
       }
@@ -1846,9 +1846,66 @@
       "6": {
         "title": "Step 7",
         "description": "Let cool slightly before serving. Serve with a side of mashed avocado or yogurt for dipping."
-
+      }
+    }
       
-      }   
+      },
+      {
+        "id":"152",
+        "image":"https://cdn.pixabay.com/photo/2016/01/11/07/12/fish-nugget-1133143_1280.jpg",
+        "title":"Apple Cinnamon Oatmeal",
+        "createdOn":"15 March 2022",
+        "prepTime":"10  minutes",
+        "foodType":["breakfast"],
+        "author":"MG Developer",
+        "authorImage":"/imgs/albert-flores.png",
+        "nutritionInfo": {
+         "calories": "120 kcal",
+         "totalFat": "2g",
+         "protein": "3g",
+         "carbohydrate": "25g",
+         "cholesterol": "0mg"
+        },
+        "description": "Warm and comforting oatmeal infused with the natural sweetness of apples and a hint of cinnamon, a wholesome breakfast option for chilly mornings.",
+        "ingredients": {
+         "main": {
+           "1": "1/4 cup rolled oats",
+           "2": "1/2 cup water or breastmilk",
+           "3": "1/4 cup grated apple",
+           "4": "1/4 teaspoon cinnamon"
+           
+         },
+         "sauce": {
+           "1": "Lorem ipsum dolor sit amet",
+           "2": "Lorem ipsum dolor sit amet",
+           "3": "Lorem ipsum dolor sit amet"
+         }
+        },
+        "directions": {
+           "1": {
+             "title": "Step 1",
+             "description": "In a small saucepan, bring water or breastmilk to a boil.",
+             "image": "/imgs/woman-cooking.png",
+             "imageAlt": "Woman cooking"
+           },
+           "2": {
+             "title": "Step 2",
+             "description": "Stir in rolled oats, grated apple, and cinnamon."
+           },
+           "3": {
+             "title": "Step 4",
+             "description": "Reduce heat to low and simmer, stirring occasionally, for 5-7 minutes or until the oats are cooked and the mixture is thickened."
+           },
+           "4": {
+            "title": "Step 5",
+            "description": "Place the coated salmon nuggets on the prepared baking sheet and lightly spray the tops with cooking spray."
+          },
+          "5": {
+            "title": "Step 6",
+            "description": "Remove from heat and let cool slightly before serving. Add breastmilk or formula to adjust the consistency if needed."
+        
+          
+          }  
           
   }
   
