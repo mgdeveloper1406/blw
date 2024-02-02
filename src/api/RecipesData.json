@@ -2089,8 +2089,73 @@
                     "title": "Step 6",
                     "description": "Serve warm or at room temperature."
      
-          
     }
+  }
+},
+    {
+      "id":"152",
+      "image":"https://cdn.pixabay.com/photo/2017/04/26/17/16/stick-2263070_640.jpg",
+      "title":"Beef and Spinach Meatballs",
+      "createdOn":"15 March 2024",
+      "prepTime":"35  minutes",
+      "foodType":["meat"],
+      "author":"MG Developer",
+      "authorImage":"/imgs/albert-flores.png",
+      "nutritionInfo": {
+       "calories": "120 kcal",
+       "totalFat": "6 g",
+       "protein": "8 g",
+       "carbohydrate": "8 g",
+       "cholesterol": "30 mg"
+      },
+      "description": "Juicy and flavorful meatballs made with lean ground beef and nutrient-rich spinach, perfect for little ones learning to self-feed.",
+      "ingredients": {
+       "main": {
+         "1": "1/2 cup grated apple",
+         "2": "1/4 cup whole wheat flour",
+         "3": "1/4 cup oat flour",
+         "4": "1 egg",
+         "5": "1 tablespoon honey",
+         "6": "1/2 teaspoon cinnamon",
+         "7": "Pinch of salt"
+
+         
+       },
+       "sauce": {
+         "1": "Lorem ipsum dolor sit amet",
+         "2": "Lorem ipsum dolor sit amet",
+         "3": "Lorem ipsum dolor sit amet"
+       }
+      },
+      "directions": {
+         "1": {
+           "title": "Step 1",
+           "description": "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+           "image": "/imgs/woman-cooking.png",
+           "imageAlt": "Woman cooking"
+         },
+         "2": {
+           "title": "Step 2",
+           "description": "In a bowl, combine ground beef, chopped spinach, breadcrumbs, egg, and garlic powder until well mixed."
+         },
+         "3": {
+           "title": "Step 3",
+           "description": "Shape the mixture into small meatballs, about 1 inch in diameter, and place them on the prepared baking sheet."
+         },
+         "4": {
+          "title": "Step 4",
+          "description": "Bake for 12-15 minutes, or until the meatballs are cooked through and lightly browned."
+        },
+        "5": {
+          "title": "Step 5",
+          "description": "Let cool slightly before serving. Serve as is or with a side of mashed potatoes or steamed vegetables."
+                    
+        },
+        
+        "6": {
+          "title": "Step 6",
+          "description": "Enjoi it!."
+      }
    }
 
 }
