@@ -18,8 +18,8 @@ const SimpleTastyRecipes = ({ recipes }) => {
   return (
     <section className='simpleTastyRecipes__container'>
       <div className='simpleTastyRecipes__header'>
-        <h2 className='simpleTastyRecipes__title'>Simple, anti-inflammatory and tasty recipes</h2>
-        <p className='simpleTastyRecipes__text'>Explore a menu designed to not only tantalize your taste buds but also nourish your body with wholesome ingredients. </p>
+        <h2 className='simpleTastyRecipes__title'>Discover a world of nutritious and delicious recipes tailored for your little one's journey through Baby-Led Weaning</h2>
+        <p className='simpleTastyRecipes__text'>From first tastes to exciting flavor combinations, explore a variety of BLW recipes designed to support your baby's developmental milestones and foster a love for wholesome foods.</p>
       </div>
       <div className='simpleTastyRecipes'>
         {simpleTastyRecipes}
