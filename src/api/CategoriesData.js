@@ -7,21 +7,21 @@ const CategoriesData = [
   },
   {
     id: '2',
-    categoryName: 'Bread',
+    categoryName: 'Healthy',
     cardColor: 'green',
-    icon: 'https://png.pngtree.com/png-clipart/20220918/original/pngtree-toast-icon-illustrasion-png-image_8622483.png'
+    icon: 'https://static.vecteezy.com/system/resources/previews/028/567/867/original/salad-3d-rendering-icon-illustration-free-png.png'
   },
   {
     id: '3',
-    categoryName: 'Meat',
+    categoryName: 'Main',
     cardColor: 'red',
-    icon: 'icons/meat.svg'
+    icon: 'https://static.vecteezy.com/system/resources/previews/011/027/526/original/korean-icon-bibimbap-food-3d-illustration-png.png'
   },
   {
     id: '4',
-    categoryName: 'Dessert',
+    categoryName: 'Drinks',
     cardColor: 'yellow',
-    icon: 'icons/dessert.svg'
+    icon: 'https://static.vecteezy.com/system/resources/previews/008/484/761/original/3d-illustration-object-icon-drink-cup-can-be-used-for-web-app-info-graphic-etc-png.png'
   },
   {
     id: '5',

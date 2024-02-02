@@ -17,7 +17,7 @@ const RecipeNutrition = ({ data }) => {
           {nutritionInfo}
         </ul>
       </div>
-      <p className='recipeNutrition__footer'>Discover a wide range of options to suit every taste and stage of your baby's development</p>
+      <p className='recipeNutrition__footer'>adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
   )
 }

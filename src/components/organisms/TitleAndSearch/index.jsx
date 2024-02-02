@@ -18,7 +18,7 @@ const TitleAndSearch = ({ filterData, title, searchFor }) => {
   return (
     <div className='titleAndSearch'>
       <h1 className='titleAndSearch__title'>{title}</h1>
-      <p className='titleAndSearch__text'> Whether you're looking for quick and easy meals or creative culinary adventures, our BLW recipe search is your gateway to nutritious eating and joyful mealtimes.</p>
+      <p className='titleAndSearch__text'> Find the perfect anti-inflammatory dishes tailored to your taste and well-being.</p>
       <div className='titleAndSearch__search'>
         <input
           className='titleAndSearch__input'
