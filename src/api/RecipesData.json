@@ -1965,9 +1965,133 @@
             "description": "Serve warm with a drizzle of maple syrup or yogurt for added flavor."
         
           
-          }  
+          }
+        }
+      },
+          {
+            "id":"152",
+            "image":"https://cdn.pixabay.com/photo/2017/04/26/17/16/stick-2263070_640.jpg",
+            "title":"Apple Cinnamon Breadsticks",
+            "createdOn":"15 March 2024",
+            "prepTime":"25  minutes",
+            "foodType":["bread"],
+            "author":"MG Developer",
+            "authorImage":"/imgs/albert-flores.png",
+            "nutritionInfo": {
+             "calories": "70 kcal",
+             "totalFat": "1g",
+             "protein": "3g",
+             "carbohydrate": "14g",
+             "cholesterol": "10mg"
+            },
+            "description": "Chewy and aromatic breadsticks infused with the sweetness of apples and a hint of cinnamon, perfect for little ones exploring new textures.",
+            "ingredients": {
+             "main": {
+               "1": "1/2 cup grated apple",
+               "2": "1/4 cup whole wheat flour",
+               "3": "1/4 cup oat flour",
+               "4": "1 egg",
+               "5": "1 tablespoon honey",
+               "6": "1/2 teaspoon cinnamon",
+               "7": "Pinch of salt"
+
+               
+             },
+             "sauce": {
+               "1": "Lorem ipsum dolor sit amet",
+               "2": "Lorem ipsum dolor sit amet",
+               "3": "Lorem ipsum dolor sit amet"
+             }
+            },
+            "directions": {
+               "1": {
+                 "title": "Step 1",
+                 "description": "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+                 "image": "/imgs/woman-cooking.png",
+                 "imageAlt": "Woman cooking"
+               },
+               "2": {
+                 "title": "Step 2",
+                 "description": "In a bowl, mix together grated apple, whole wheat flour, oat flour, egg, melted butter, honey, cinnamon, and salt until well combined."
+               },
+               "3": {
+                 "title": "Step 3",
+                 "description": "Transfer the batter to a piping bag fitted with a round tip."
+               },
+               "4": {
+                "title": "Step 4",
+                "description": "Pipe the batter onto the prepared baking sheet to form breadsticks, leaving space between each stick."
+              },
+              "5": {
+                "title": "Step 5",
+                "description": "Bake for 10-12 minutes, or until golden brown and firm to the touch."
+                          
+              },
+              
+              "6": {
+                "title": "Step 6",
+                "description": "BLet cool for a few minutes before serving. Serve as is or with a side of applesauce for dipping."
+            }
+          }
+          },
+              {
+                "id":"152",
+                "image":"https://cdn.pixabay.com/photo/2021/04/30/12/01/mashed-sweet-potato-6218759_1280.jpg",
+                "title":"Chicken and Vegetable Puree",
+                "createdOn":"15 March 2024",
+                "prepTime":"45  minutes",
+                "foodType":["meat"],
+                "author":"MG Developer",
+                "authorImage":"/imgs/albert-flores.png",
+                "nutritionInfo": {
+                 "calories": "90 kcal",
+                 "totalFat": "3g",
+                 "protein": "8 g",
+                 "carbohydrate": "8g",
+                 "cholesterol": "25mg"
+                },
+                "description": "Smooth and velvety puree made with tender chicken and a medley of colorful vegetables, providing essential nutrients for your baby's growth.",
+                "ingredients": {
+                 "main": {
+                   "1": "1/4 lb boneless, skinless chicken breast",
+                   "2": "1/2 cup chopped vegetables (carrots, peas, broccoli)",
+                   "3": "1 cup low-sodium chicken broth",
+                   "4": "1/4 teaspoon cinnamon",
+                   "5": "Olive oil for cooking"
+                   
+                 },
+                 "sauce": {
+                   "1": "Lorem ipsum dolor sit amet",
+                   "2": "Lorem ipsum dolor sit amet",
+                   "3": "Lorem ipsum dolor sit amet"
+                 }
+                },
+                "directions": {
+                   "1": {
+                     "title": "Step 1",
+                     "description": "In a saucepan, heat a small amount of olive oil over medium heat.",
+                     "image": "/imgs/woman-cooking.png",
+                     "imageAlt": "Woman cooking"
+                   },
+                   "2": {
+                     "title": "Step 2",
+                     "description": "Add chicken breast to the pan and cook until browned on both sides, about 5-7 minutes."
+                   },
+                   "3": {
+                     "title": "Step 4",
+                     "description": "Remove the chicken from the pan and set aside. In the same pan, add chopped vegetables and sauté until tender, about 5 minutes."
+                   },
+                   "4": {
+                    "title": "Step 5",
+                    "description": "Remove from heat and let cool slightly. Transfer the mixture to a blender or food processor and blend until smooth."
+                  },
+                  "5": {
+                    "title": "Step 6",
+                    "description": "Serve warm or at room temperature."
+     
           
   }
+}
   
 }
 
